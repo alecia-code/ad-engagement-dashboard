@@ -17,8 +17,9 @@ We ran an A/B test comparing banner vs. video ads and static vs. dynamic persona
 - `data/`: Sample dataset used for analysis.
 
 ## Visual Preview
+![image](https://github.com/user-attachments/assets/6de1f7eb-c76a-435d-af6f-da402624cc67)
 
-![Tableau Preview](images/tableau_dashboard.png)
+
 
 ## Takeaways & Recommendations
 - Prioritize dynamic video ads in future campaigns.
